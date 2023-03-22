@@ -1,3 +1,3 @@
-fav_language = 'python '
-fav_language.rstrip()
-print(fav_language)
+x = 'Hello World'
+ans = x[8]
+print(ans)
