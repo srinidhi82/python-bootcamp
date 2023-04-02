@@ -9,3 +9,7 @@ print(tuple1.index("age"))
 tuple2 = tuple1 + ("cafe", 500)
 
 print(tuple2)
+
+C_tuple=(-5, 1, -3)
+sorted_C_tuple = sorted(C_tuple)
+print(sorted_C_tuple)

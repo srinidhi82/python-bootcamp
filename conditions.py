@@ -8,7 +8,7 @@ else:
 
 age = 19
 if (age > 18):
-    print("Enter the COncert arena")
+    print("Enter the Concert arena")
 elif (age ==18):
     print("Go to FLoyd concert")
 else:

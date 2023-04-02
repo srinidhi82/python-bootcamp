@@ -14,3 +14,6 @@ first = float(input("Enter the first number "))
 second = float(input("enter the second number "))
 sum = first + second
 print("This is the total " + str(sum))
+
+# when a function is part of an object that function is calle method
+

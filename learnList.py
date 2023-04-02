@@ -14,3 +14,7 @@ cars.insert(2, 'Ford')
 cars_pop = cars.pop()
 print (cars_pop)
 print(cars)
+
+colours = ["blue", "orange", "yellow", "green"]
+colours += ["brown"]
+print(colours)
